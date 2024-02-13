@@ -12,15 +12,20 @@ def mi_generador():
     
 
 '''
-print(mi_funcion)
-print(mi_generador)
-
 g = mi_generador()
 
 print(next(g))
-
+print(next(g))
+print(next(g))
+print(next(g))
+print(next(g))
+print(next(g))
 
 '''
+
+
+
+
 
 
 
